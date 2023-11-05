@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T09:08:29.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0WcKUfWi8lIsdbsuzCd4" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T09:13:48.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="PpfqGCMUC0TWb6_e73Zq" version="22.0.8" type="github">
   <diagram name="페이지-1" id="TN5AKw6U-QQQKgMi7nGR">
-    <mxGraphModel dx="1008" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="591" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,19 +267,14 @@
         <mxCell id="N7bC6ouLhvrDJOjR0Ol4-26" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N7bC6ouLhvrDJOjR0Ol4-20" target="sBylLuwAz_yNocwkfArh-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N7bC6ouLhvrDJOjR0Ol4-20" value="로그인 여부" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="660" width="114" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="N7bC6ouLhvrDJOjR0Ol4-25" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N7bC6ouLhvrDJOjR0Ol4-20">
-          <mxGeometry x="-0.6352" relative="1" as="geometry">
-            <mxPoint x="400" y="898" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="683" />
-              <mxPoint x="400" y="802" />
-              <mxPoint x="401" y="802" />
-            </Array>
+        <mxCell id="N7bC6ouLhvrDJOjR0Ol4-28" value="YES" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N7bC6ouLhvrDJOjR0Ol4-20">
+          <mxGeometry x="-0.7434" y="-2" relative="1" as="geometry">
+            <mxPoint x="170" y="810" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N7bC6ouLhvrDJOjR0Ol4-20" value="로그인 여부" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="660" width="114" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
