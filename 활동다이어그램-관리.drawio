@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T16:43:33.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sHcbEc9o7VnmABQwfUkG" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T16:58:24.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YO8jLnV1o2wlrPpxZng0" version="22.1.2" type="github">
   <diagram name="페이지-1" id="Np0-8j3lZ_INTy2ZnYN4">
     <mxGraphModel dx="775" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,8 +47,28 @@
         <mxCell id="GQmYFKglvcywQy4LVJvo-61" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="280" width="55" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GQmYFKglvcywQy4LVJvo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQmYFKglvcywQy4LVJvo-68" target="GQmYFKglvcywQy4LVJvo-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="152" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQmYFKglvcywQy4LVJvo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQmYFKglvcywQy4LVJvo-68" target="GQmYFKglvcywQy4LVJvo-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="288" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GQmYFKglvcywQy4LVJvo-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#121212;" vertex="1" parent="1">
           <mxGeometry x="110" y="380" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GQmYFKglvcywQy4LVJvo-70" value="문의 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQmYFKglvcywQy4LVJvo-71" value="상품 관리" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
