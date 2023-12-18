@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T12:23:36.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zu72YjruUyL3IrYoTDlq" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T12:28:58.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="umcvJQaRYyvnKI7Nj7PH" version="22.1.11" type="github">
   <diagram name="페이지-1" id="I9tHwxixIqzVXGr1ii1-">
-    <mxGraphModel dx="721" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-1" value="주소 입력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="130" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-2" target="TWEKV3C4PbeZUNHtCxb8-4">
           <mxGeometry relative="1" as="geometry" />
@@ -26,43 +26,79 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-6" value="주소의 경도, &lt;br&gt;위도 값 추출" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="540" y="195" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-9" target="TWEKV3C4PbeZUNHtCxb8-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="767" y="260" />
+              <mxPoint x="380" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-9" value="네이버 부동산 url에 대입하여 검색" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-11" target="TWEKV3C4PbeZUNHtCxb8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TWEKV3C4PbeZUNHtCxb8-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="145" y="60" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TWEKV3C4PbeZUNHtCxb8-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#121212;" vertex="1" parent="1">
-          <mxGeometry x="150" y="65" width="20" height="20" as="geometry" />
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#121212;" vertex="1" parent="1">
+          <mxGeometry x="125" y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-21" target="TWEKV3C4PbeZUNHtCxb8-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-21" value="매물 불러오기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="120" height="50" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-23" target="TWEKV3C4PbeZUNHtCxb8-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-23" value="불러온 매물 중&lt;br&gt;상세주소로 매물 특정" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="420" width="130" height="60" as="geometry" />
+          <mxGeometry x="315" y="360" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TWEKV3C4PbeZUNHtCxb8-28" value="특정한 매물의 월세와 보증금, 면적 반환" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-33" value="전세" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-29" target="TWEKV3C4PbeZUNHtCxb8-31">
+          <mxGeometry x="0.375" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-40" value="월세" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-29" target="TWEKV3C4PbeZUNHtCxb8-38">
+          <mxGeometry x="0.3935" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TWEKV3C4PbeZUNHtCxb8-29" value="거래 종류" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TWEKV3C4PbeZUNHtCxb8-31" value="특정한 매물의 전세와 면적 반환" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-31" value="특정한 매물의 전세, 면적&lt;br&gt;반환" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-35" target="TWEKV3C4PbeZUNHtCxb8-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#121212;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="640" width="225" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-38" value="특정한 매물의 월세, 보증금,&lt;br&gt;면적 반환" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.209;entryY=-0.13;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-38" target="TWEKV3C4PbeZUNHtCxb8-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.785;entryY=-0.278;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-31" target="TWEKV3C4PbeZUNHtCxb8-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="145" y="790" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#121212;" vertex="1" parent="1">
+          <mxGeometry x="150" y="795" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWEKV3C4PbeZUNHtCxb8-48" target="TWEKV3C4PbeZUNHtCxb8-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWEKV3C4PbeZUNHtCxb8-48" value="정보 넘기기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
