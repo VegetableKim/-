@@ -1,9 +1,192 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="페이지-1" id="l6jsERK50eljF_mwshCe">
-    <mxGraphModel>
+    <mxGraphModel dx="961" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mBaUsVRjei22sfl_zwiO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-1" target="mBaUsVRjei22sfl_zwiO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-1" target="mBaUsVRjei22sfl_zwiO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-1" target="mBaUsVRjei22sfl_zwiO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-1" value="버스기사 안전관리를 위한 스마트워치 솔루션" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-2" target="mBaUsVRjei22sfl_zwiO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-2" target="mBaUsVRjei22sfl_zwiO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-2" target="mBaUsVRjei22sfl_zwiO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-2" value="안전운전 지원" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-90" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-3" target="mBaUsVRjei22sfl_zwiO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-3" target="mBaUsVRjei22sfl_zwiO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-3" target="mBaUsVRjei22sfl_zwiO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-3" value="건강상태 모니터링" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="313.75" width="110" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-4" target="mBaUsVRjei22sfl_zwiO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-4" target="mBaUsVRjei22sfl_zwiO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-4" target="mBaUsVRjei22sfl_zwiO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-4" value="데이터 관리 및 분석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-11" target="mBaUsVRjei22sfl_zwiO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-11" target="mBaUsVRjei22sfl_zwiO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-11" value="실시간 피로도 감지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-12" target="mBaUsVRjei22sfl_zwiO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-12" target="mBaUsVRjei22sfl_zwiO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-12" target="mBaUsVRjei22sfl_zwiO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-12" value="운전 패턴 분석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-13" value="위험 상황 경고" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-14" target="mBaUsVRjei22sfl_zwiO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-14" target="mBaUsVRjei22sfl_zwiO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-14" target="mBaUsVRjei22sfl_zwiO-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-14" target="mBaUsVRjei22sfl_zwiO-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-14" value="생체신호 측정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-15" target="mBaUsVRjei22sfl_zwiO-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-15" target="mBaUsVRjei22sfl_zwiO-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-15" value="건강 이상 징후 감지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="325" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-16" target="mBaUsVRjei22sfl_zwiO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-16" target="mBaUsVRjei22sfl_zwiO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-16" value="응급상황 대응" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="470" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-17" target="mBaUsVRjei22sfl_zwiO-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-17" value="데이터 수집 및 저장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-18" target="mBaUsVRjei22sfl_zwiO-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBaUsVRjei22sfl_zwiO-18" target="mBaUsVRjei22sfl_zwiO-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-18" value="통계 분석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="700.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-19" value="리포트 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="795.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-20" value="심박수 모니터링" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-21" value="혈압 측정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-22" value="체온 측정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="183.75" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-23" value="산소포화도 측정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="233.75" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-24" value="고혈압 위험 감지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-25" value="심장질환 위험 감지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-26" value="자동 비상연락" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-27" value="위치정보 전송" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-28" value="졸음운전 감지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-29" value="피로도 수준 측정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-190" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-30" value="급가속/급제동 분석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-50" value="과속 여부 확인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-51" value="운전시간 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-30" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-63" value="실시간 데이터 동기화" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="610" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-65" value="운전 패턴 분석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="660.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mBaUsVRjei22sfl_zwiO-66" value="건강상태 추이 분석" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="740.5" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
