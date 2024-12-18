@@ -273,12 +273,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t02feFB2NrVQyLMN-R6v" name="페이지-3">
-    <mxGraphModel dx="1454" dy="1523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="921" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FmA28T8u4epWjLxd7Why-1" value="SAFETIMATICS 설계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="207" y="-118" width="148" height="46" as="geometry" />
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-1" target="FmA28T8u4epWjLxd7Why-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-1" target="FmA28T8u4epWjLxd7Why-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-1" value="SAFETIMATICS 설계" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="334" y="-96" width="148" height="46" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-2" target="FmA28T8u4epWjLxd7Why-6">
           <mxGeometry relative="1" as="geometry" />
@@ -289,7 +295,7 @@
         <mxCell id="iGX2UbNs9hSxGfQQ7623-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-2" target="FmA28T8u4epWjLxd7Why-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-2" value="시스템 설계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-2" value="시스템 설계" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="87" y="17" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-3" target="FmA28T8u4epWjLxd7Why-9">
@@ -298,7 +304,7 @@
         <mxCell id="iGX2UbNs9hSxGfQQ7623-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-3" target="FmA28T8u4epWjLxd7Why-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-3" value="AIMATICS 시스템 연동" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-3" value="AIMATICS 시스템 연동" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="86" y="321" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-4" target="FmA28T8u4epWjLxd7Why-12">
@@ -313,7 +319,7 @@
         <mxCell id="iGX2UbNs9hSxGfQQ7623-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-4" target="FmA28T8u4epWjLxd7Why-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-4" value="스마트워치 앱 개발" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-4" value="스마트워치 앱 개발" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="336" y="17" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-5" target="FmA28T8u4epWjLxd7Why-16">
@@ -325,49 +331,49 @@
         <mxCell id="iGX2UbNs9hSxGfQQ7623-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-5" target="FmA28T8u4epWjLxd7Why-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-5" value="테스트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-5" value="테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="594" y="17" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-6" value="시스템 통합 구조 설계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-6" value="시스템 통합 구조 설계" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="105" y="102" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-7" value="스마트워치 앱 모듈 설계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-7" value="스마트워치 앱 모듈 설계" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="105" y="174" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-8" value="UI/UX 디자인" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-8" value="UI/UX 디자인" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="105" y="246" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-9" value="AIMATICS API 통합" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-9" value="AIMATICS API 통합" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="111" y="406" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-10" value="데이터 처리 시스템" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-10" value="데이터 처리 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="111" y="609" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-12" value="생체신호 모니터링 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-12" value="생체신호 모니터링 모듈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="365" y="90" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-13" value="알림 관리 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-13" value="알림 관리 모듈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="365" y="293" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-14" value="데이터 동기화 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-14" value="데이터 동기화 모듈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="365" y="435" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-15" value="분석/리포팅 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-15" value="분석/리포팅 모듈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="365" y="639" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-16" value="단위 테스트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-16" value="단위 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="618" y="90" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-17" value="통합 테스트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-17" value="통합 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="618" y="292" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FmA28T8u4epWjLxd7Why-18" value="필드 테스트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FmA28T8u4epWjLxd7Why-18" value="필드 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="618" y="493" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-14" value="위험 상황 데이터 수신" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-14" value="위험 상황 데이터 수신" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="131" y="478" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-15" value="실시간 알림 연동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-15" value="실시간 알림 연동" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="131" y="539" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-14">
@@ -388,10 +394,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-21" value="위험 상황 데이터 수신" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-21" value="위험 상황 데이터 수신" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="131" y="680" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-22" value="실시간 알림 연동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-22" value="실시간 알림 연동" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="131" y="741" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-21">
@@ -412,10 +418,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-26" value="데이터 수집 구현" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-26" value="데이터 수집 구현" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="382" y="162" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-27" value="신호 처리 알고리즘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-27" value="신호 처리 알고리즘" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="382" y="223" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-26">
@@ -436,7 +442,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-30" value="알림 우선순위 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-30" value="알림 우선순위 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="382" y="364" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-30">
@@ -448,10 +454,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-34" value="AIMATICS 서버 연동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-34" value="AIMATICS 서버 연동" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="382" y="506" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-35" value="실시간 동기화" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-35" value="실시간 동기화" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="382" y="567" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-34">
@@ -472,7 +478,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-38" value="리포트 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-38" value="리포트 생성" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="382" y="710" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-38">
@@ -484,10 +490,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-42" value="앱 기능 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-42" value="앱 기능 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="641" y="162" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-43" value="성능 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-43" value="성능 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="641" y="223" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-42">
@@ -508,10 +514,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-46" value="AIMATICS 연동 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-46" value="AIMATICS 연동 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="640" y="364" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-47" value="시스템 안정성 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-47" value="시스템 안정성 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="640" y="425" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-46">
@@ -532,10 +538,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-50" value="실제 운전 환경 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-50" value="실제 운전 환경 테스트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="640" y="564" width="144" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-51" value="버스 기사 피드백 수집" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-51" value="버스 기사 피드백 수집" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="640" y="625" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-50">
@@ -554,6 +560,12 @@
             <Array as="points">
               <mxPoint x="594" y="649" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="66" y="344" as="sourcePoint" />
+            <mxPoint x="67" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
