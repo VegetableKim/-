@@ -149,10 +149,59 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6OB_MRdJddkfXvSc6wAI" name="페이지-2">
-    <mxGraphModel dx="922" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1686" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="23" width="455" height="406" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8IqSX-kD89b2BUwdz8Q9-2" target="8IqSX-kD89b2BUwdz8Q9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-2" value="A.I.CAM&lt;div&gt;Roadscope&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="-59" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-17" value="실시간 데이터&lt;div&gt;수집 전송&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8IqSX-kD89b2BUwdz8Q9-3" target="8IqSX-kD89b2BUwdz8Q9-8">
+          <mxGeometry x="-0.448" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;스마트워치&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="-59" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-7" value="데이터, 영상 등&lt;div&gt;운행 정보&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8IqSX-kD89b2BUwdz8Q9-4" target="8IqSX-kD89b2BUwdz8Q9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-4" value="4G-LTE&lt;div&gt;Router&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="81" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8IqSX-kD89b2BUwdz8Q9-6" target="8IqSX-kD89b2BUwdz8Q9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-6" value="클라우드" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="232" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-16" value="실시간 AI캠&lt;div&gt;감지 경고&lt;/div&gt;&lt;div&gt;전송&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8IqSX-kD89b2BUwdz8Q9-8" target="8IqSX-kD89b2BUwdz8Q9-3">
+          <mxGeometry x="-0.3213" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-8" value="Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="232" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-9" value="API" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8IqSX-kD89b2BUwdz8Q9-6" target="8IqSX-kD89b2BUwdz8Q9-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-31" y="191" as="sourcePoint" />
+            <mxPoint x="19" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-10" value="aid 웹 서비스" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8IqSX-kD89b2BUwdz8Q9-19" value="SAFETIMATICS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="384" width="104" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
