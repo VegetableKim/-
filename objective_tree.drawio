@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="페이지-1" id="l6jsERK50eljF_mwshCe">
-    <mxGraphModel dx="733" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-4" value="데이터 관리 및 분석" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="525" width="110" height="60" as="geometry" />
+          <mxGeometry x="240" y="585" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;cloneable=1;deletable=1;" parent="1" source="mBaUsVRjei22sfl_zwiO-17" target="mBaUsVRjei22sfl_zwiO-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-17" value="데이터 수집 및 저장" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="480" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;cloneable=1;deletable=1;" parent="1" source="mBaUsVRjei22sfl_zwiO-18" target="mBaUsVRjei22sfl_zwiO-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -56,16 +56,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-18" value="개인화 서비스 제공" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="590" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="650" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-63" value="실시간 데이터 동기화" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="480" width="110" height="40" as="geometry" />
+          <mxGeometry x="610" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-65" value="개인 식별 번호" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="550" width="110" height="40" as="geometry" />
+          <mxGeometry x="610" y="610" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mBaUsVRjei22sfl_zwiO-66" value="개인별 레포트 제공" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="630" width="110" height="40" as="geometry" />
+          <mxGeometry x="610" y="690" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzmwCPAxyPMJvmSYChxt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kzmwCPAxyPMJvmSYChxt-1" target="kzmwCPAxyPMJvmSYChxt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,13 +76,16 @@
         <mxCell id="kzmwCPAxyPMJvmSYChxt-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kzmwCPAxyPMJvmSYChxt-1" target="kzmwCPAxyPMJvmSYChxt-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6TGhr4ej5p2eb3gdCx7F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kzmwCPAxyPMJvmSYChxt-1" target="6TGhr4ej5p2eb3gdCx7F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kzmwCPAxyPMJvmSYChxt-1" value="AIMATICS&lt;div&gt;API 연결&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="-10" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzmwCPAxyPMJvmSYChxt-2" value="안전벨트 착용, 운전 집중, 졸음운전, 음주운전 여부 알림" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="-90" width="110" height="60" as="geometry" />
+        <mxCell id="kzmwCPAxyPMJvmSYChxt-2" value="운전자 상태 모니터링" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="-70" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzmwCPAxyPMJvmSYChxt-5" value="aid 서비스&lt;div&gt;스마트워치로 확인&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
+        <mxCell id="kzmwCPAxyPMJvmSYChxt-5" value="운전자 스코어링" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="50" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzmwCPAxyPMJvmSYChxt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kzmwCPAxyPMJvmSYChxt-8" target="kzmwCPAxyPMJvmSYChxt-13" edge="1">
@@ -106,11 +109,14 @@
         <mxCell id="kzmwCPAxyPMJvmSYChxt-9" value="스마트워치&lt;div&gt;센서 연결&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="325" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzmwCPAxyPMJvmSYChxt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kzmwCPAxyPMJvmSYChxt-10" target="kzmwCPAxyPMJvmSYChxt-27" edge="1">
+        <mxCell id="6TGhr4ej5p2eb3gdCx7F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kzmwCPAxyPMJvmSYChxt-10" target="kzmwCPAxyPMJvmSYChxt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6TGhr4ej5p2eb3gdCx7F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kzmwCPAxyPMJvmSYChxt-10" target="6TGhr4ej5p2eb3gdCx7F-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kzmwCPAxyPMJvmSYChxt-10" value="기타 보호 시스템" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="420" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzmwCPAxyPMJvmSYChxt-13" value="SOS 자동/수동 신고" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="110" width="110" height="40" as="geometry" />
@@ -128,49 +134,25 @@
           <mxGeometry x="610" y="365" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kzmwCPAxyPMJvmSYChxt-27" value="자동 녹음 기능" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="610" y="410" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzmwCPAxyPMJvmSYChxt-32" value="AI캠 장애물 인식 알림" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
+        <mxCell id="kzmwCPAxyPMJvmSYChxt-32" value="외부 AI캠 인식 알림" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="-10" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6TGhr4ej5p2eb3gdCx7F-1" value="주행상황 판단" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6TGhr4ej5p2eb3gdCx7F-4" value="음성 및 진동 알림" style="rounded=0;whiteSpace=wrap;html=1;movable=1;cloneable=1;deletable=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="490" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6OB_MRdJddkfXvSc6wAI" name="페이지-2">
-    <mxGraphModel dx="1117" dy="1187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-1" value="SAFETIMATICS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-112" y="158" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-2" value="안전성 향상" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="-14" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-3" value="운전자 건강관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="109" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-4" value="운영 효율성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="243" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-5" value="사용자 경험" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="371" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-6" value="실시간 피로도 감지" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="-71" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-8" value="위험 상황 조기 경보" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="-7" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-9" value="사고 예방" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="291" y="68" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-10" value="건강 상태 모니터링" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="132" width="120" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="kB-Bt79d1r5Ka0bSWzAm-11" value="스트레스 레벨 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288" y="208" width="120" height="43" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
