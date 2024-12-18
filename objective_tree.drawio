@@ -273,10 +273,61 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t02feFB2NrVQyLMN-R6v" name="페이지-3">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="1180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FmA28T8u4epWjLxd7Why-1" value="SAFETIMATICS 설계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="-118" width="148" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-2" value="시스템 설계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="17" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-3" value="AIMATICS 시스템 연동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="17" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-4" value="스마트워치 앱 개발" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="17" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-5" value="테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="17" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-6" value="시스템 통합 구조 설계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="102" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-7" value="스마트워치 앱 모듈 설계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="174" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-8" value="UI/UX 디자인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="246" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-9" value="AIMATICS API 통합" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="102" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-10" value="데이터 처리 시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="174" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-12" value="생체신호 모니터링 모듈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="100" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-13" value="알림 관리 모듈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="172" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-14" value="데이터 동기화 모듈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="244" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-15" value="분석/리포팅 모듈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="316" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-16" value="단위 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="102" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-17" value="통합 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="174" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FmA28T8u4epWjLxd7Why-18" value="필드 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="246" width="144" height="47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
