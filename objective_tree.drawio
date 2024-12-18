@@ -273,7 +273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t02feFB2NrVQyLMN-R6v" name="페이지-3">
-    <mxGraphModel dx="1100" dy="941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="1523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,7 +290,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-2" value="시스템 설계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-165" y="17" width="144" height="47" as="geometry" />
+          <mxGeometry x="87" y="17" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-3" target="FmA28T8u4epWjLxd7Why-9">
           <mxGeometry relative="1" as="geometry" />
@@ -299,7 +299,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-3" value="AIMATICS 시스템 연동" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="86" y="17" width="144" height="47" as="geometry" />
+          <mxGeometry x="86" y="321" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmA28T8u4epWjLxd7Why-4" target="FmA28T8u4epWjLxd7Why-12">
           <mxGeometry relative="1" as="geometry" />
@@ -329,62 +329,230 @@
           <mxGeometry x="594" y="17" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-6" value="시스템 통합 구조 설계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-147" y="102" width="144" height="47" as="geometry" />
+          <mxGeometry x="105" y="102" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-7" value="스마트워치 앱 모듈 설계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-147" y="174" width="144" height="47" as="geometry" />
+          <mxGeometry x="105" y="174" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-8" value="UI/UX 디자인" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-147" y="246" width="144" height="47" as="geometry" />
+          <mxGeometry x="105" y="246" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-9" value="AIMATICS API 통합" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="111" y="102" width="144" height="47" as="geometry" />
+          <mxGeometry x="111" y="406" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-10" value="데이터 처리 시스템" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="111" y="333" width="144" height="47" as="geometry" />
+          <mxGeometry x="111" y="609" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-12" value="생체신호 모니터링 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="102" width="144" height="47" as="geometry" />
+          <mxGeometry x="365" y="90" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-13" value="알림 관리 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="174" width="144" height="47" as="geometry" />
+          <mxGeometry x="365" y="293" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-14" value="데이터 동기화 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="246" width="144" height="47" as="geometry" />
+          <mxGeometry x="365" y="435" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-15" value="분석/리포팅 모듈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="318" width="144" height="47" as="geometry" />
+          <mxGeometry x="365" y="639" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-16" value="단위 테스트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="619" y="102" width="144" height="47" as="geometry" />
+          <mxGeometry x="618" y="90" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-17" value="통합 테스트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="619" y="174" width="144" height="47" as="geometry" />
+          <mxGeometry x="618" y="292" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FmA28T8u4epWjLxd7Why-18" value="필드 테스트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="619" y="246" width="144" height="47" as="geometry" />
+          <mxGeometry x="618" y="493" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-14" value="위험 상황 데이터 수신" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="174" width="144" height="47" as="geometry" />
+          <mxGeometry x="131" y="478" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-15" value="실시간 알림 연동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="235" width="144" height="47" as="geometry" />
+          <mxGeometry x="131" y="539" width="144" height="47" as="geometry" />
         </mxCell>
         <mxCell id="iGX2UbNs9hSxGfQQ7623-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="192" y="163" as="sourcePoint" />
-            <mxPoint x="85" y="126" as="targetPoint" />
+            <mxPoint x="192" y="467" as="sourcePoint" />
+            <mxPoint x="85" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="85" y="198" />
+              <mxPoint x="85" y="502" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGX2UbNs9hSxGfQQ7623-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="131" y="259" as="sourcePoint" />
-            <mxPoint x="85" y="188" as="targetPoint" />
+            <mxPoint x="131" y="563" as="sourcePoint" />
+            <mxPoint x="85" y="492" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="85" y="260" />
+              <mxPoint x="85" y="563" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-21" value="위험 상황 데이터 수신" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="680" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-22" value="실시간 알림 연동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="741" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192" y="669" as="sourcePoint" />
+            <mxPoint x="85" y="632" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="704" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131" y="766" as="sourcePoint" />
+            <mxPoint x="85" y="695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="766" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-26" value="데이터 수집 구현" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="162" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-27" value="신호 처리 알고리즘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="223" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="151" as="sourcePoint" />
+            <mxPoint x="336" y="114" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="247" as="sourcePoint" />
+            <mxPoint x="336" y="176" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-30" value="알림 우선순위 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="364" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="353" as="sourcePoint" />
+            <mxPoint x="336" y="316" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="388" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-34" value="AIMATICS 서버 연동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="506" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-35" value="실시간 동기화" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="567" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="495" as="sourcePoint" />
+            <mxPoint x="336" y="458" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="591" as="sourcePoint" />
+            <mxPoint x="336" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-38" value="리포트 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="710" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443" y="699" as="sourcePoint" />
+            <mxPoint x="336" y="662" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="734" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-42" value="앱 기능 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="162" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-43" value="성능 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="223" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702" y="151" as="sourcePoint" />
+            <mxPoint x="595" y="114" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="595" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="641" y="247" as="sourcePoint" />
+            <mxPoint x="595" y="176" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="595" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-46" value="AIMATICS 연동 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="364" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-47" value="시스템 안정성 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="425" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="701" y="353" as="sourcePoint" />
+            <mxPoint x="594" y="316" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="388" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="449" as="sourcePoint" />
+            <mxPoint x="594" y="378" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-50" value="실제 운전 환경 테스트" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="564" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-51" value="버스 기사 피드백 수집" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="625" width="144" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="701" y="553" as="sourcePoint" />
+            <mxPoint x="594" y="516" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="588" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iGX2UbNs9hSxGfQQ7623-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iGX2UbNs9hSxGfQQ7623-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="649" as="sourcePoint" />
+            <mxPoint x="594" y="578" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="649" />
             </Array>
           </mxGeometry>
         </mxCell>
